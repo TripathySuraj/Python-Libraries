@@ -1,0 +1,1 @@
+A collection of Seaborn concepts and practice examples covering statistical data visualization techniques such as count plots, bar plots, box plots, histograms, scatter plots, heatmaps, and customization of visualizations using Python.
