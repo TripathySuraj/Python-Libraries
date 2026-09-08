@@ -1,0 +1,1 @@
+A collection of Matplotlib concepts and practice examples covering data visualization techniques such as line plots, bar charts, histograms, scatter plots, pie charts, and customization of visualizations using Python.
